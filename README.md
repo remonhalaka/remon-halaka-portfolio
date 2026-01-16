@@ -10,7 +10,7 @@
   
 
 ## CV
-   
+Voir les fichiers du répertoire pour le CV.
 
 ## Contact
-   remonhalaka@yahoo.com
+remonhalaka@yahoo.com
