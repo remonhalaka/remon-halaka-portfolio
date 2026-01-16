@@ -4,7 +4,7 @@
 
 ##  Projets
 - Application Flutter – Catalogue de Comics  
-  
+  https://github.com/remonhalaka/flutter-comics-app
 
 - Application Flutter – Gestion de Séries TV  
   
