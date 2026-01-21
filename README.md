@@ -9,7 +9,8 @@
 - Application Flutter – Gestion de Séries TV  
   https://github.com/remonhalaka/flutter-tvshows-app
 
-- Application React –  Jeu de puzzle glissant 
+- Application React –  Jeu de puzzle glissant
+  
   https://github.com/remonhalaka/react-sliding-puzzle
 
 
